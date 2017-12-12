@@ -1,0 +1,59 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+}
+body, html {
+    font-family: cursive;
+    background-color: black;
+    height: 100%;
+}
+h1 {
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+li {
+    text-align: left;
+}
+ul {
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+}
+.hotlinks {
+    padding: 15px;
+    justify-content: center;
+    background-color: darkred;
+    margin: 0;
+}
+.button {
+    display: block;
+    border-radius: 2px;
+    background-color: darkred;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    box-shadow: 4px 4px 4px black;
+    margin-bottom: 10px;
+}
+.card {
+    width: 80%;
+    padding: 15px;
+    text-align: left;
+    background-color: red;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    margin: 20px;
+}
+.box {
+    display: flex;
+    width: 80% ;
+    margin: auto;
+}
+.fit {
+    width: 300px;
+    margin-top: 35px;
+    position: center;
+}
